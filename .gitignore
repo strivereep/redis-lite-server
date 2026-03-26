@@ -1,0 +1,11 @@
+go/*
+
+.pytest_cache
+.venv
+python/snapshot/*
+!python/snapshot/.gitkeep
+__pycache__
+
+Gemfile.lock
+ruby/snapshot/*
+!ruby/snapshot/.gitkeep
